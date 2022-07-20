@@ -1,0 +1,8 @@
+*** inicio do teste.txt ***
+
+Este arquivo serve para testar o programa
+TCPServidor. Quando o cliente envia uma solicitacao
+ao servidor este envia um stream de dados armazenado
+neste arquivo.
+
+*** fim de teste.txt ***
